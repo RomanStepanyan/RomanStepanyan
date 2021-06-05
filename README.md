@@ -22,5 +22,5 @@ I am a begginer in web development. I 'm really interested in programming and ea
 
 ## Some of my Github Stats
 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=RomanStepanyan&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula)](https://github.com/RomanStepanyan/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=RomanStepanyan&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=tokyonight)](https://github.com/RomanStepanyan/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=RomanStepanyan&layout=compact)](https://github.com/RomanStepanyan/github-readme-stats)
