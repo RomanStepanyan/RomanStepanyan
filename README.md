@@ -1,4 +1,5 @@
 ### Hi there 👋 A'm Roman!
+I am a begginer in web development. In despite of my substantial experience in starting and leading the own business I got really interested in web development, Python programming and eager to develop myself in these areas.
 [![Gmail Badge](https://img.shields.io/badge/-stepik10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stepik10@gmail.com)](mailto:stepik10@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-RomanStepanyan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-stepanyan/)](https://www.linkedin.com/in/roman-stepanyan/)
 
