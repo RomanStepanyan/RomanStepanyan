@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 A'm Roman!
+[![Gmail Badge](https://img.shields.io/badge/-stepik10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stepik10@gmail.com)](mailto:stepik10@gmail.com) 
+
 
 <!--
 **RomanStepanyan/RomanStepanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
